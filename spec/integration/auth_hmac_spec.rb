@@ -1,7 +1,7 @@
 require 'spec_helper'
-require 'captivus/auth_hmac'
 require 'rack/test'
 require 'net/http'
+require 'captivus/auth_hmac'
 
 describe Captivus::AuthHMAC do
   include Rack::Test::Methods

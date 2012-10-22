@@ -1,0 +1,1 @@
+require 'captivus/auth_hmac'

@@ -1,6 +1,6 @@
-require 'captivus/auth_hmac'
 require 'net/http'
 require 'time'
+require 'captivus/auth_hmac'
 
 describe Captivus::AuthHMAC do
   # Class for doing a custom signature

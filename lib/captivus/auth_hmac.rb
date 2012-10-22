@@ -1,3 +1,4 @@
+require 'captivus/auth_hmac/version'
 require 'openssl'
 require 'base64'
 
